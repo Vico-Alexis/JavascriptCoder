@@ -1,3 +1,17 @@
-.title {
-  color: peru;
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: green;
+}
+input,button {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+#resultado {
+  margin-top: 20px;
+  font-weight: bold;
+}
+h1 {
+  color: darkblue;
 }
